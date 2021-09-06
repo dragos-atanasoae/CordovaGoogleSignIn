@@ -1,5 +1,7 @@
 {
   "name": "CordovaGoogleSignIn",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
